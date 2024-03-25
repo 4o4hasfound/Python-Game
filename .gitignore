@@ -7,6 +7,6 @@ venv
 __pycache__
 .replit
 poetry.lock
-pyproject
+pyproject.toml
 replit.nix
-replit_zip_error_log
+replit_zip_error_log.txt
