@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.2" orientation="orthogonal" renderorder="right-down" width="8" height="1" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="13">
+ <tileset firstgid="1" name="Hnet.com-image" tilewidth="32" tileheight="32" tilecount="102" columns="6">
+  <image source="Hnet.com-image.png" width="192" height="544"/>
+ </tileset>
+ <objectgroup id="2" name="WALL">
+  <object id="1" gid="14" x="32" y="32" width="32" height="32"/>
+  <object id="2" gid="14" x="64" y="32" width="32" height="32"/>
+  <object id="3" gid="14" x="96" y="32" width="32" height="32"/>
+  <object id="4" gid="14" x="160" y="32" width="32" height="32"/>
+  <object id="5" gid="14" x="128" y="32" width="32" height="32"/>
+  <object id="6" gid="14" x="192" y="32" width="32" height="32"/>
+  <object id="11" gid="14" x="0" y="32" width="32" height="32"/>
+  <object id="12" gid="14" x="224" y="32" width="32" height="32"/>
+ </objectgroup>
+</map>

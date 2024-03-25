@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.2" orientation="orthogonal" renderorder="right-down" width="1" height="8" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="17">
+ <tileset firstgid="1" name="Hnet.com-image" tilewidth="32" tileheight="32" tilecount="102" columns="6">
+  <image source="Hnet.com-image.png" width="192" height="544"/>
+ </tileset>
+ <objectgroup id="2" name="WALL">
+  <object id="15" gid="10" x="0" y="256" width="32" height="32"/>
+  <object id="16" gid="4" x="0" y="32" width="32" height="32"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,12 @@
+venv
+.32cl0r552ymkw1632511351~
+.breakpoints
+.cache
+.config
+.upm
+__pycache__
+.replit
+poetry.lock
+pyproject
+replit.nix
+replit_zip_error_log
